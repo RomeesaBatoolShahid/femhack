@@ -2,7 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import LandingPage from "./Pages/LandingPage";
 import Login from "./Pages/Login";
 import Signup from "./Pages/Signup";
-import BoardPage from './pages/BoardPage';
+import BoardPage from './Pages/BoardPage';
 
 import NotFound from "./Pages/NotFound";
 import ProfilePage from "./Pages/ProfilePage";
